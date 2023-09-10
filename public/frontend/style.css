@@ -1,0 +1,14 @@
+.body{
+    background: #F6F6F6;
+}
+
+.common{
+    border-radius: 5px;
+}
+
+.content{
+    border: 1px solid red;
+    padding: 20px 0px 20px;
+    border-radius: 5px;
+    margin: 10px 0px 10px;
+}
